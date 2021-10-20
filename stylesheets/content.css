@@ -5,7 +5,8 @@ body{
     width: 1440px;
   }
   .img1 {
-    text-align:center
+    text-align:center;
+    margin-top: -20px;
   }
   .img2 {
     text-align:center;
